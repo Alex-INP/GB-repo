@@ -1,8 +1,6 @@
-numbers = []
 numbers_cube = []
 
 for i in range(1, 1000, 2):
-	numbers.append(i)
 	numbers_cube.append(i ** 3)
 
 print(numbers_cube)

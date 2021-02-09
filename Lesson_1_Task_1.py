@@ -1,4 +1,4 @@
-duration = int(input("Укажите количество секунд: "))
+duration = int(input("Укажите суммарное количество секунд: "))
 
 days = duration // 86400
 hours = (duration % 86400) // 3600

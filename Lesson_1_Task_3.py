@@ -1,4 +1,4 @@
-user_num = int(input("Введите число до 20: "))
+user_num = int(input("Введите число от 1 до 20: "))
 
 if user_num == 1:
 	print(user_num,"процент")
